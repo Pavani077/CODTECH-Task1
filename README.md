@@ -7,6 +7,10 @@
 
 
 ## Overveiw of the Project:
+![Screenshot 2024-12-29 061729](https://github.com/user-attachments/assets/cb009cea-63eb-48b5-94d3-57848f47bda3)
+
+![Screenshot 2024-12-29 061806](https://github.com/user-attachments/assets/9dfeb6ab-9310-4622-acf6-9dd569ab35bb)
+
 
 ### Project: Dveloping a Quiz using C++ Programming.
 
